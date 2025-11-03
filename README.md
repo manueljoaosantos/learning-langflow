@@ -18,13 +18,14 @@ Este repositório documenta estudos, testes e integrações realizados durante o
 ## 🧩 Estrutura do Repositório
 
 
+```bash
 learning-langflow/
-├── docs/ # Notas e tutoriais sobre o Langflow
-├── examples/ # Exemplos de fluxos (JSON exportados)
-├── integrations/ # Testes de integração com n8n, Flowise, APIs, etc.
-├── custom_tools/ # Ferramentas personalizadas (Custom Components)
-└── README.md # Este ficheiro
-
+├── docs/                 # Notas e tutoriais sobre o Langflow
+├── examples/             # Exemplos de fluxos (JSON exportados)
+├── integrations/         # Testes de integração com n8n, Flowise, APIs, etc.
+├── custom_tools/         # Ferramentas personalizadas (Custom Components)
+└── README.md             # Este ficheiro
+```
 
 ---
 
